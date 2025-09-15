@@ -1,15 +1,16 @@
 
 /* Your CSS Code here. */
 /* Styling main element */
-main.accio#job {
-  width: 150px;
-  height: 150px;
-  background-color: #000000;
-}
+ <style>
+        .accio {
+            width: 150px;
+            height: 150px;
+            background-color: #000000;
+        }
 
-/* Styling p element */
-.hello-accio {
-  color: #ffffff;
-  margin-left: 32px;
-  padding: 10px;
-}
+        .hello-accio {
+            color: #ffffff;
+            margin-left: 32px;
+            padding: 10px;
+        }
+    </style>
